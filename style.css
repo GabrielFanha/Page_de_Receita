@@ -75,3 +75,7 @@ footer {
   padding-top: 28px;
   padding-bottom: 48px;
 }
+
+footer img {
+  vertical-align: middle;
+}
